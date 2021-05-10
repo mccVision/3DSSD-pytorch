@@ -1,0 +1,10 @@
+mmcv
+tqdm
+numba
+scipy
+Cython
+torch<=1.4
+scikit-image
+open3d==0.10
+tensorboard
+tensorboardX
